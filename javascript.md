@@ -38,3 +38,13 @@ function topLevelFunction() {
 ### Naming
 
 No space between name and first parenthesis.
+
+````
+function myName() {}
+````
+
+For anonymous functions, leave a space such as:
+
+````
+function () {}
+````
